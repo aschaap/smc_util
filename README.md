@@ -13,7 +13,7 @@ Note: I don't have the iMac I used for this anymore, so I can't test anything, s
 
 ```
 sudo apt-get install build-essential
-git clone https://github.com/floe/smc_util
+git clone https://github.com/floe/smc_util.git
 cd smc_util
 make
 sudo ./tdm_on.sh # enable target display mode
