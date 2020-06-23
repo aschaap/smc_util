@@ -11,6 +11,8 @@ Chances are you're here because of my [blog post](https://floe.butterbrot.org/ma
 
 _Note_: I don't have the iMac I used for this anymore, so I can't test anything, sorry. That being said, the steps to use this are (on Ubuntu and derivatives):
 
+_Note_: This was tested on a mid-2010 27" iMac running Yosemite and Ubuntu 16.04. Any other model/OS combo might behave differently.
+
 ```
 sudo apt-get install build-essential
 
